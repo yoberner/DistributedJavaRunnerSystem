@@ -23,7 +23,7 @@ buildNumber.properties
 #
 # Visual Studio Code
 #
-.code-workspace
+*.code-workspace
 .settings/
 .classpath
 .project
