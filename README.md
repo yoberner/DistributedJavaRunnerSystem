@@ -22,4 +22,4 @@
 * Implemented Zookeeper Leader Election and Heartbeat Protocol to recover from node failure and ensure fault tolerance.
 * Server to server communication utilizes UDP and TCP protocols.
 * Client to server communication utilizes HTTP protocol.
-* Allows for redistribution of work among the cluster if a server node goes down.
+* Allows for redistribution of work amongst the cluster if a server node goes down.
